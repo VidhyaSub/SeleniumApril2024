@@ -1,0 +1,18 @@
+package week1.day2;
+
+public class Firefox {
+
+	public static void main(String[] args) 
+	
+	{
+	float browserVersion = 124.0f;
+	String browserName = "Chrome";
+	boolean pageLoaded = true;
+	int noOfBrowser =1;
+	char browserLogo ='C';
+	System.out.println("Browser version:" +browserVersion+"\n" +"Browser Name:" +browserName +"\n"+
+						"Page Loaded:" +pageLoaded +"\n"+ "No of Browser:" +noOfBrowser +"\n"+ "BrowserLogo:" +browserLogo);
+	
+	}
+
+}
